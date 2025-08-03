@@ -1,0 +1,5 @@
+
+project_name: Online Retail Customer Segmentation
+version: 1.0
+input_file: data/OnlineRetail.csv
+rfm_clusters: 4
